@@ -1,0 +1,13 @@
+{
+  "routes": {
+    "/": {},
+    "/countries-capital": {},
+    "/countries-currency": {},
+    "/countries-lang": {},
+    "/countries-region": {},
+    "/countries-subregion": {},
+    "/countries-top-pop": {},
+    "/country-code": {},
+    "/country-name": {}
+  }
+}
